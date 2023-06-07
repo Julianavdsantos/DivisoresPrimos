@@ -1,0 +1,16 @@
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.AssemblyInfoInputs.cache
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.AssemblyInfo.cs
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.csproj.CoreCompileInputs.cache
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\Divisores.exe
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\Divisores.deps.json
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\Divisores.runtimeconfig.json
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\Divisores.runtimeconfig.dev.json
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\Divisores.dll
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\ref\Divisores.dll
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\bin\Debug\net5.0\Divisores.pdb
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.dll
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\ref\Divisores.dll
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.pdb
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.genruntimeconfig.cache
+C:\Users\juliana.santos\source\repos\Divisores\Divisores\obj\Debug\net5.0\Divisores.csproj.AssemblyReference.cache
